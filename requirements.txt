@@ -35,7 +35,7 @@ kiwisolver==1.4.5
 mapclassify==2.6.1
 matplotlib==3.8.4
 matplotlib-inline==0.1.6
-nbformat==5.10.4
+mercantile==1.2.1
 nest-asyncio==1.6.0
 networkx==3.3
 numpy==1.26.4
@@ -44,7 +44,7 @@ pandas==2.2.1
 parso==0.8.4
 pillow==10.3.0
 platformdirs==4.2.0
-plotly==5.20.0
+pooch==1.8.1
 prompt-toolkit==3.0.43
 psutil==5.9.8
 pure-eval==0.2.2
@@ -56,8 +56,8 @@ python-dateutil==2.9.0.post0
 pytz==2024.1
 pywin32==306
 pyzmq==25.1.2
-referencing==0.34.0
-rpds-py==0.18.0
+rasterio==1.3.9
+requests==2.31.0
 scikit-learn==1.4.2
 scipy==1.13.0
 seaborn==0.13.2
@@ -74,3 +74,4 @@ typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1
 wcwidth==0.2.13
+xyzservices==2024.4.0
